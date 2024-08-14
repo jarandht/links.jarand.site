@@ -1,0 +1,64 @@
+[
+    {
+        "name": "jarand.site",
+        "url": "https://jarand.site",
+        "img": "/img/logo_heart_emoji.png",
+        "color": "#6f1b32"
+    },
+    {
+        "name": "jarandht@gmail.com",
+        "url": "mailto:jarandht@gmail.com",
+        "img": "/img/mail.png",
+        "color": "#111"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com/jarandht",
+        "img": "/img/github.png",
+        "color": "#111"
+    },
+    {
+        "name": "Gamehub",
+        "url": "https://gamehub.community",
+        "img": "/img/gamehub.png",
+        "colorGradient": "yes",
+        "color": "#ff6685, #938ae3"
+    },
+    {
+        "name": "Discord",
+        "url": "https://discord.gamehub.community",
+        "img": "/img/discord.png",
+        "color": "#5865f2"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/user/hashtagchees",
+        "img": "/img/reddit.png",
+        "color": "#FF5700"
+    },
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/brood_boy_chees/",
+        "img": "/img/instagram.png",
+        "colorGradient": "yes",
+        "color": "#FD1D1D, #E1306C, #833AB4, #405DE6"
+    },
+    {
+        "name": "Snapchat",
+        "url": "https://www.snapchat.com/add/nubus10000?share_id=jvRcIW_Aie4&locale=nb-NO",
+        "img": "/img/snapchat.png",
+        "color": "#e0dd02"
+    },
+    {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/user/jarandht",
+        "img": "/img/spotify.webp",
+        "color": "#1ed760"
+    },
+    {
+        "name": "Tiktok",
+        "url": "https://www.tiktok.com/@brod_boy_chees",
+        "img": "/img/tiktok.png",
+        "color": "#000"
+    }
+]
